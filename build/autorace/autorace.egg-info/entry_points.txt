@@ -1,0 +1,4 @@
+[console_scripts]
+yoon_pub = autorace.yoon_pub:main
+yoon_sub = autorace.yoon_sub:main
+

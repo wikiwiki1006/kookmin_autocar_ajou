@@ -1,0 +1,25 @@
+[0.526s] Invoking command in '/home/yoon/autorace_ws/src/autorace': PYTHONPATH=/home/yoon/autorace_ws/build/autorace/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yoon/autorace_ws/install/autorace/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/autorace build --build-base /home/yoon/autorace_ws/build/autorace/build install --record /home/yoon/autorace_ws/build/autorace/install.log --single-version-externally-managed install_data
+[0.711s] running egg_info
+[0.712s] writing ../../build/autorace/autorace.egg-info/PKG-INFO
+[0.712s] writing dependency_links to ../../build/autorace/autorace.egg-info/dependency_links.txt
+[0.712s] writing entry points to ../../build/autorace/autorace.egg-info/entry_points.txt
+[0.712s] writing requirements to ../../build/autorace/autorace.egg-info/requires.txt
+[0.713s] writing top-level names to ../../build/autorace/autorace.egg-info/top_level.txt
+[0.714s] reading manifest file '../../build/autorace/autorace.egg-info/SOURCES.txt'
+[0.715s] writing manifest file '../../build/autorace/autorace.egg-info/SOURCES.txt'
+[0.715s] running build
+[0.715s] running build_py
+[0.715s] copying autorace/yoon_sub.py -> /home/yoon/autorace_ws/build/autorace/build/lib/autorace
+[0.715s] running install
+[0.715s] running install_lib
+[0.716s] copying /home/yoon/autorace_ws/build/autorace/build/lib/autorace/yoon_sub.py -> /home/yoon/autorace_ws/install/autorace/lib/python3.10/site-packages/autorace
+[0.717s] byte-compiling /home/yoon/autorace_ws/install/autorace/lib/python3.10/site-packages/autorace/yoon_sub.py to yoon_sub.cpython-310.pyc
+[0.717s] running install_data
+[0.717s] running install_egg_info
+[0.719s] removing '/home/yoon/autorace_ws/install/autorace/lib/python3.10/site-packages/autorace-0.0.0-py3.10.egg-info' (and everything under it)
+[0.719s] Copying ../../build/autorace/autorace.egg-info to /home/yoon/autorace_ws/install/autorace/lib/python3.10/site-packages/autorace-0.0.0-py3.10.egg-info
+[0.720s] running install_scripts
+[0.735s] Installing yoon_pub script to /home/yoon/autorace_ws/install/autorace/lib/autorace
+[0.735s] Installing yoon_sub script to /home/yoon/autorace_ws/install/autorace/lib/autorace
+[0.736s] writing list of installed files to '/home/yoon/autorace_ws/build/autorace/install.log'
+[0.755s] Invoked command in '/home/yoon/autorace_ws/src/autorace' returned '0': PYTHONPATH=/home/yoon/autorace_ws/build/autorace/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yoon/autorace_ws/install/autorace/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/autorace build --build-base /home/yoon/autorace_ws/build/autorace/build install --record /home/yoon/autorace_ws/build/autorace/install.log --single-version-externally-managed install_data
