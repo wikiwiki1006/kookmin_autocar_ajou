@@ -1,2 +1,2 @@
 print("yeaaaa")
-print("sensinggg")
+print("sensingggggg")
